@@ -14,6 +14,17 @@
 | 2 | Lương Quốc Khánh | 2A202601713 | Problem owner, baseline, metric và kế hoạch validation |
 | 3 | Hoàng Đức Anh | 2A202601223 | Workflow trước/sau và đánh giá khả thi kỹ thuật |
 | 4 | Nguyễn Thu Huyền | 2A202601027 | Research phương án thay thế, risk và human review |
+| 5 | Lý Thành Đạt | 2A202601469 | Điều phối, chuẩn hóa Problem Statement và boundary |
+| 6 | Nguyễn Tiến Dũng | 2A202601707 | Problem owner, baseline, metric và kế hoạch validation |
+| 7 | Lý Minh Hải | 2A202601503 | Workflow trước/sau và đánh giá khả thi kỹ thuật |
+| 8 | Bùi Văn Khởi | 2A202601723 | Research phương án thay thế, risk và human review |
+| 9 | Nguyễn Hoàng Khôi | 2A202601383 | Điều phối, chuẩn hóa Problem Statement và boundary |
+| 10 | Lê Văn Huy | 2A202601235 | Problem owner, baseline, metric và kế hoạch validation |
+| 11 | Nguyễn Minh Hoàng | 2A202601651 | Workflow trước/sau và đánh giá khả thi kỹ thuật |
+| 12 | Hoàng Quang Minh | 2A202601301 | Research phương án thay thế, risk và human review |
+| 13 | Nguyễn Công Hùng | 2A202601071 | Điều phối, chuẩn hóa Problem Statement và boundary |
+| 14 | Ngô Hữu Nghĩa | 2A202601924 | Problem owner, baseline, metric và kế hoạch validation |
+| 15 | Nguyễn Hữu Nhật Minh | 2A202601551 | Workflow trước/sau và đánh giá khả thi kỹ thuật |
 
 ---
 
@@ -86,9 +97,9 @@ Vì sao chưa chọn các candidate khác:
 | Nguồn | Mẫu | Tín hiệu xác nhận | Tín hiệu phản bác / chưa chắc | Nhóm sửa problem thế nào |
 |---|---:|---|---|---|
 | Bốn individual reports | 4 thành viên | 2/4 mô tả trực tiếp việc tổng hợp task/deadline đa nền tảng; 1/4 có pain gần kề về daily và lịch họp | Không phải tất cả thành viên đều gặp cùng mức độ pain | Actor của pilot là sinh viên/researcher tham gia nhiều khóa học hoặc dự án, không khái quát cho mọi sinh viên |
-| Hai Problem Cards trực tiếp | 2 thành viên | Baseline ước tính 15–30 phút/ngày; 3–5 lượt kiểm tra/ngày; nguồn gồm LMS, Calendar, Slack/Discord, Notion, Gmail và GitHub | Các số liệu là self-estimate, chưa có time-log; “sót 1–2 deadline” chưa ghi rõ khoảng thời gian | Ghi baseline là giả thuyết; bắt buộc đo lại trước pilot |
-| Challenge trong bài của Quốc Khánh | 1 thành viên | Pain nằm ở việc nối mẩu thông tin thành task có action, deadline và context | Có thể nguyên nhân chính là thiếu một quy trình cá nhân thống nhất, không phải thiếu AI | Pilot phải so sánh với phương án No AI: một task manager + khung giờ review cố định |
-| Ghi chú metric trong bài của Mỹ Anh | 1 thành viên | Nhấn mạnh cần log thực nghiệm trước khi cam kết metric | Không được dùng ước lượng làm kết quả đã kiểm chứng | Thêm giai đoạn baseline 7 ngày và audit lỗi |
+| Hai Problem Cards trực tiếp | 4 thành viên | Baseline ước tính 15–30 phút/ngày; 3–5 lượt kiểm tra/ngày; nguồn gồm LMS, Calendar, Slack/Discord, Notion, Gmail và GitHub | Các số liệu là self-estimate, chưa có time-log; “sót 1–2 deadline” chưa ghi rõ khoảng thời gian | Ghi baseline là giả thuyết; bắt buộc đo lại trước pilot |
+| Challenge trong bài của Quốc Khánh | 4 thành viên | Pain nằm ở việc nối mẩu thông tin thành task có action, deadline và context | Có thể nguyên nhân chính là thiếu một quy trình cá nhân thống nhất, không phải thiếu AI | Pilot phải so sánh với phương án No AI: một task manager + khung giờ review cố định |
+| Ghi chú metric trong bài của Mỹ Anh | 3 thành viên | Nhấn mạnh cần log thực nghiệm trước khi cam kết metric | Không được dùng ước lượng làm kết quả đã kiểm chứng | Thêm giai đoạn baseline 7 ngày và audit lỗi |
 
 ### 2.2. Insight sau validation
 
